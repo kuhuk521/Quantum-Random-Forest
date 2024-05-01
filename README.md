@@ -21,6 +21,4 @@ Python=3.8.10 was used with the following libraries:
 
 -----
 
-Example code is found in the example_notebook.ipynb file. Feel free to try with your own datasets.      
-
-Note, only IQP and Efficient-Anzatz embeddings are available. Feel free to construct other embeddings from scratch and add to the pqc.py and split_function.py files.
+# Conducted a comparative analysis using an updated heart attack prediction dataset from Kaggle to assess whether traditional random forest models outperformed quantum random forest models.
